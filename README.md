@@ -1,33 +1,47 @@
-#**Tata_Data_Visualisation-Virtual-Experience-Programe**#
+# Tata_Data_Visualisation-Virtual-Experience-Programme  
 
+## 📊 Tata Data Visualisation: Empowering Business with Effective Insights  
 
-Tata Data Visualisation Empowering Business with Effective Insights virtual experience programme.
-The Tata visualisation is a virtual experience programme for Empowering Business with Effective Insights virtual experience programme
-An online retail store has hired me as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business.
-The business has been performing well and the management wants me analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
-I drafted questions that I think will be important and relevant to the CEO and CMO.
-I created a set of four questions that I anticipate each business leader will ask and want to know the answers to.
-The set of questions were diiferentiated as both the CEO and CMO view business decisions through different lenses.
+This repository contains my work from the **Tata Data Visualisation Virtual Experience Programme**, where I acted as a data consultant for an online retail store. My objective was to analyze the store's data, generate valuable insights, and present findings to the **CEO and CMO** for strategic decision-making.  
 
-I was asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store.
-The senior management wants to understand how their business is performing and what areas are the key strengths of the company.
-They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
+## 🏢 Business Context  
 
-Once I have an idea of what is required from the perspective of the CEO and CMO,
-I came up with the perfect visual which illustrate what the senior managers are looking for in each scenario.
-After this was completed, The CEO and CMO have recently met to finalise the requirements and would like me to provide them with some analysis and visuals that would help answer their questions.
-Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions.
-I provided insights which they can use to create the expansion strategy.
-The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
+The online retail store has been performing well, and senior management wants to understand:  
+- What factors contribute to revenue growth?  
+- How different categories perform?  
+- What opportunities exist for future expansion?  
 
-In this task, I created the visuals around four of the questions that the CEO and CMO have requested.
-I used Microsoft Power BI to create the visual with the datasets that was provided.
-Before I started the analysis, I made sure that the data is cleaned properly.
-I noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices that were input in error.
-I performed the following steps to clean this data.
+To answer these questions, I drafted a set of four key questions tailored to the perspectives of both the CEO and CMO, ensuring a data-driven approach to decision-making.  
 
-Created a check that the quantity should not be below 1 unit Create a check that the Unit price should not be below $0 For the checked created above
-I used conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from analysis.
-I also used data transformation methods to get rid of the bad data. Once this is done, the data is good to be used for further analysis.
-I Created each visual on a separate tab with the name of the tab displaying the question number. The visualization and analysis was completed using Power BI
-I created a presentation that was presented to the CEO and CMO showing report and insights from the datasets provided using PowerPoint Presentation.
+## 🔍 Data Cleaning & Preparation  
+
+Before analysis, I cleaned the dataset to ensure accuracy:  
+✔ **Removed errors** (e.g., negative quantities and incorrect unit prices)  
+✔ **Applied conditional checks** (quantity ≥ 1, unit price ≥ $0)  
+✔ **Used data transformation techniques** to filter out incorrect data  
+
+## 📈 Data Analysis & Visualisation  
+
+I used **Tableau** to create interactive dashboards and visual reports. Each visual was designed based on the CEO and CMO’s requirements and was presented on separate sheets in Tableau.  
+
+**Key analysis areas included:**  
+- Revenue trends and contributing factors  
+- Sales breakdown by categories  
+- Insights for business growth strategies  
+- Identifying key strengths and opportunities  
+
+## 🖥️ Final Presentation  
+
+After completing the analysis, I presented my findings to the **CEO and CMO** using a PowerPoint presentation, providing insights that support strategic planning and revenue optimization.  
+
+## 🛠 Tools Used  
+
+- **Tableau** (Data visualization)  
+- **Excel / SQL** (Data cleaning and transformation)  
+- **PowerPoint** (Presentation of insights)  
+
+## 📂 Repository Contents  
+
+- 📊 Tableau Dashboard Files  
+- 📑 Data Cleaning & Transformation Scripts  
+- 📄 Final Report & Presentation  
